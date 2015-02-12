@@ -161,6 +161,14 @@
 	"sourceSize": {"w":32,"h":16}
 },
 {
+	"filename": "trampolineh.png",
+	"frame": {"x":148,"y":38,"w":32,"h":16},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":16},
+	"sourceSize": {"w":64,"h":32
+},
+{
 	"filename": "power_down.png",
 	"frame": {"x":200,"y":2,"w":16,"h":16},
 	"rotated": false,
